@@ -1,5 +1,5 @@
 <?php
 
-print im aquib\n";
+print "im aquib\n";
 
 ?>
